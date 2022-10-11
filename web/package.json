@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.1",
+    "@cucumber/pretty-formatter": "^1.0.0",
+    "@playwright/test": "^1.27.0",
+    "allure-playwright": "^2.0.0-beta.19",
+    "playwright": "^1.27.0"
+  },
+  "scripts": {}
+}
